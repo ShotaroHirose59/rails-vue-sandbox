@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Tpractice
 
-Things you may want to cover:
+First rails and Vue app
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+このサンプルアプリケーションではテーブルのソートや、データの絞り込みがVue.jsの機能を使って実装されています。
